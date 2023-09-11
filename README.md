@@ -2,7 +2,7 @@
 
 *The certificate program usually covers the following topics*
 
-*Correlation of Two time series
+*Correlation of Two time series.
 
 *Simple Linear Regression
 
